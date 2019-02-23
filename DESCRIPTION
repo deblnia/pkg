@@ -12,3 +12,7 @@ Encoding: UTF-8
 LazyData: true
 Imports: 
     glue
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
